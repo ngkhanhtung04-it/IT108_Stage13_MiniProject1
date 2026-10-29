@@ -1,0 +1,11 @@
+===== BAO CAO SU CO HE THONG =====
+Thoi gian chay: 2026-10-27 08:00:00 +0700
+Nguon: data/log-he-thong.log
+Bo loc: CRITICAL, ERROR 404, TIMEOUT
+----------------------------------
+[2026-10-27 07:55:14] ERROR 404 - tram-cam-bien-27 khong phan hoi
+[2026-10-27 07:56:45] CRITICAL - mat ket noi may chu trung tam
+[2026-10-27 07:57:03] TIMEOUT - tram-cam-bien-58 qua thoi gian cho
+[2026-10-27 07:59:08] CRITICAL - bo dem du lieu gan day
+[2026-10-27 08:00:10] TIMEOUT - yeu cau telemetry khong co phan hoi
+===== KET THUC =====

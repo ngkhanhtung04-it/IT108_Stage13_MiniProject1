@@ -1,0 +1,10 @@
+[2026-10-27 07:55:03] INFO - tram-cam-bien-01 ket noi binh thuong
+[2026-10-27 07:55:14] ERROR 404 - tram-cam-bien-27 khong phan hoi
+[2026-10-27 07:56:00] INFO - dong bo du lieu hoan tat
+[2026-10-27 07:56:45] CRITICAL - mat ket noi may chu trung tam
+[2026-10-27 07:57:03] TIMEOUT - tram-cam-bien-58 qua thoi gian cho
+[2026-10-27 07:57:22] WARN - RAM tram-cam-bien-19 vuot 80%
+[2026-10-27 07:58:11] ERROR 500 - gateway phan hoi loi
+[2026-10-27 07:58:49] INFO - ket noi du phong san sang
+[2026-10-27 07:59:08] CRITICAL - bo dem du lieu gan day
+[2026-10-27 08:00:10] TIMEOUT - yeu cau telemetry khong co phan hoi

@@ -1,0 +1,10 @@
+# Secret/local configuration
+.env
+.env.*.local
+!.env.example
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
